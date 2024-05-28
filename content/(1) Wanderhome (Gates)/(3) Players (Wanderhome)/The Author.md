@@ -1,6 +1,7 @@
 ---
 Category: The Author
 icon: RaRaven
+title: The Author
 ---
 ![[Pasted image 20240323200428.png]]
 ##### Current HP

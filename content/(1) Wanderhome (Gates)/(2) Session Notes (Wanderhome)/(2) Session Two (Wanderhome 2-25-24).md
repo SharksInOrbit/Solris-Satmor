@@ -1,3 +1,9 @@
+---
+title: Session Two Notes
+draft: false
+tags:
+---
+
 The session started with a flashback of [[Percival (REDACTED), The Forgotten]] (*our intro to Eva's character*) running through the [[Riparian Thicket Wilds]] a couple years ago. Here we learn that the Riparian Thicket is a huge forest that sits on an oceans that’s miles deep. As Screeble floats on a raft they come across a huge willow tree before hearing a voice.
 
 We cut to present day [[Hira]], [[(1) Solris Satmor|Solris]], and [[Basil]]  floating down the river on Solris’ [[(2) Lighthouse Longboat|Longboat]]. We see Basil, a goat shepherd, looking over the rim of the boat. A bumble comes up and Basil reaches into his pocket to grab some treats, accidentally dropping a pink orchid, a symbol of the rebellion.

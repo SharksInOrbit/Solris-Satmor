@@ -1,3 +1,8 @@
+---
+title: Session Four Notes
+draft: false
+tags:
+---
 ### Ten Minutes after last session
 Party is sitting around a bonfire made of crystals as other gods walk around and observe them. Gods have animal-like features, foliage growing out of them, and just seem off. 
 Beau is the first to speak to the gods "So you actually thought you'd be able to just leave after coming here?"  and chews the gods out for their stupidity

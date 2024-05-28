@@ -1,3 +1,8 @@
+---
+title: Update Log
+draft: false
+tags:
+---
 ## Initial Launch 5/27/24
 
 ***Hello Besties.***

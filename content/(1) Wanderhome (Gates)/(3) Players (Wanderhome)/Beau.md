@@ -1,6 +1,7 @@
 ---
 Category: Beau
 icon: ☀
+title: Beau
 ---
 ![[Pasted image 20240323212109.png]]
 ##### Current HP

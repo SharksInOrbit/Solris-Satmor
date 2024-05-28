@@ -1,6 +1,7 @@
 ---
 Category: Hira
 icon: RaSeagull
+title: Hira
 ---
 ![[Pasted image 20240323200602.png]]
 ##### Current HP

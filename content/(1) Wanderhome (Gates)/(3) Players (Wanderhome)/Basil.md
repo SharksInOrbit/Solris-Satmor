@@ -1,6 +1,7 @@
 ---
 Category: Dead
 icon: RaAries
+title: Basil
 ---
 ![[Pasted image 20240323203851.png]]
 ##### Current HP

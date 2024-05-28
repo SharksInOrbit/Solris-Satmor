@@ -1,6 +1,7 @@
 ---
 Category: Solris
 icon: RaWolfHowl
+title: Solris
 ---
 ![[Pasted image 20240323200021.png]]
 ##### Current HP

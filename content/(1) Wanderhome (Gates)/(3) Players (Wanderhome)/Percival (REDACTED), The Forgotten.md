@@ -1,6 +1,7 @@
 ---
 Category: Percival
 icon: RaSnake
+title: Percival
 ---
 
 (Character Image)
