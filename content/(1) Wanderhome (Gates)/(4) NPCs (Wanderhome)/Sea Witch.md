@@ -1,3 +1,8 @@
+---
+title: Sea Witch
+draft: false
+tags:
+---
 ### General Info
 **Name:** *The Sea Witch*
 **Pronouns:** *All*
