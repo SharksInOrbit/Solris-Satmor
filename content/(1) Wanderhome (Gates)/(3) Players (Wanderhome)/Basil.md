@@ -13,36 +13,40 @@ title: Basil
 - [x] 3
 - [x] 2
 - [x] 1
+---
 ### General Info
-**Player:** *Milo*
-**Name:** *Basil*
-**Char. Pronouns:** *It/Itself*
-**Playbook:** *The Shepherd, The Veteran* 
-**Animal:** *Ram*
+###### **Player:** *Milo*
+###### **Name:** *Basil*
+###### **Char. Pronouns:** *It/Itself*
+###### **Playbook:** *The Shepherd, The Veteran* 
+###### **Animal:** *Ram*
+---
 #### Look
-***Physical Appearance***
+###### ***Physical Appearance***
 - Horns
 - Prosthetic limb
 - Many scars
-***Clothes***
+###### ***Clothes***
 - Patchwork Overalls
 - Billowing Cloak
-***Carries***
+###### ***Carries***
 - Shepherd's Crook
 - Old-Fashioned Pipe
 - "Sword" (*Looks unremarkable, unless you know what to look for*)
 - A dried-out orchid pressed into your journal, your last memory of the rebellion. (*Stays by its side)*
 - A handkerchief given by your first crush ([[Beau]]), when you were both children. (*What it needs to let go of*)
+---
 #### Temperament and Beliefs
 *Herds of chubby bumblebees can be found across the Hæth, and tending to those flocks is simple, honest work.*
-***You Are Alive. Your care is: Measureless, Watchful, and Gentle.*** 
+###### ***You Are Alive. Your care is: Measureless, Watchful, and Gentle.*** 
 *You wield the blade that must never be drawn again.*
-***You Are Alive. Your care is: Intense, Sober, and Mindful.***
+###### ***You Are Alive. Your care is: Intense, Sober, and Mindful.***
 
-**It is:** *Fatherly and Reliable*
-**It is no longer:** *Tough and Loud*
-**It is Sometimes:** *Exhausted and Terrified*
-**It Refuses to be:** *Bitter and Heartless*
+###### **It is:** *Fatherly and Reliable*
+###### **It is no longer:** *Tough and Loud*
+###### **It is Sometimes:** *Exhausted and Terrified*
+###### **It Refuses to be:** *Bitter and Heartless*
+---
 #### Some Things It Can Always Do
 - Ѭ Pat a bumble on its head.
 - Ѭ Stare off into the distance.
@@ -58,6 +62,7 @@ title: Basil
 - Ѭ Say: “I don’t do that anymore.”
 - Ѭ Ask: “What are you hiding?”
 - Ѭ Unsheathe your blade and immediately kill the person in front of you. Then, remove your character from the game. You cannot play them any longer.
+---
 ### Character Specifics
 ##### The Herd:
 - The cutest bumble, who loves head-pats. They are friendly

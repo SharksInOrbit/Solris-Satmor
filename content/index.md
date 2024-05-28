@@ -1,17 +1,8 @@
 ---
-title: Wanderhome
+title: Viva Voce
+tags:
 ---
-I need sleep oh my god
-## I Did It
-[[(0) READ ME]]
-[[Solris]]
-[[Beau]]
+## We have a website now!
+As of right now Dio is the only one who can manage and update the site, but this is still collaborative. Make suggestions for what you want to see!
 
-### This is just to test I'll make it look nice after I sleep
-[[Heavenblade]]
-[[Sea Witch]]
-
-### oh hey it's another header I'm totally not testing headers right now
-[[(2) Session Two (Wanderhome 2-25-24)]]
-[[(3) Session Three (Wanderhome 3-24-24)]]
-[[(4) Session Four (Wanderhome 5-26-24)]]
+#landing_page
