@@ -4,7 +4,7 @@ icon: RaAries
 title: Basil
 ---
 ![[Pasted image 20240323203851.png]]
-##### Current HP
+### Current HP
 *(Check HP when lost going from top to bottom)*
 - [x] 7 
 - [x] 6
@@ -14,14 +14,14 @@ title: Basil
 - [x] 2
 - [x] 1
 ---
-### General Info
+## General Info
 ###### **Player:** *Milo*
 ###### **Name:** *Basil*
 ###### **Char. Pronouns:** *It/Itself*
 ###### **Playbook:** *The Shepherd, The Veteran* 
 ###### **Animal:** *Ram*
 ---
-#### Look
+## Look
 ###### ***Physical Appearance***
 - Horns
 - Prosthetic limb
@@ -36,7 +36,7 @@ title: Basil
 - A dried-out orchid pressed into your journal, your last memory of the rebellion. (*Stays by its side)*
 - A handkerchief given by your first crush ([[Beau]]), when you were both children. (*What it needs to let go of*)
 ---
-#### Temperament and Beliefs
+## Temperament and Beliefs
 *Herds of chubby bumblebees can be found across the Hæth, and tending to those flocks is simple, honest work.*
 ###### ***You Are Alive. Your care is: Measureless, Watchful, and Gentle.*** 
 *You wield the blade that must never be drawn again.*
@@ -47,7 +47,7 @@ title: Basil
 ###### **It is Sometimes:** *Exhausted and Terrified*
 ###### **It Refuses to be:** *Bitter and Heartless*
 ---
-#### Some Things It Can Always Do
+## Some Things It Can Always Do
 - Ѭ Pat a bumble on its head.
 - Ѭ Stare off into the distance.
 - Ѭ Make an offhand observation that turns out to be correct.
@@ -63,7 +63,7 @@ title: Basil
 - Ѭ Ask: “What are you hiding?”
 - Ѭ Unsheathe your blade and immediately kill the person in front of you. Then, remove your character from the game. You cannot play them any longer.
 ---
-### Character Specifics
+## Character Specifics
 ##### The Herd:
 - The cutest bumble, who loves head-pats. They are friendly
 - The luckiest bumble, who keeps bumbling out of trouble. They are miraculous
