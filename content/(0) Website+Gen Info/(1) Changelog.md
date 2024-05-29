@@ -11,3 +11,14 @@ We're essentially in the beta testing phase of this right now. This is most of w
 - **Site Created**
 - File Tree added
 - Table of contents added
+---
+## Bug Fixes and Improvements (5/29/25)
+
+Improved Mobile compatibility by replacing the backlinks section with the graph and adding the explore tree to the bottom of the page.
+
+#### Updates
+- Improved note formatting for players and NPCs
+- Fixed some organization issues
+- Updated the landing page
+#### To-Do
+- Plug-in support
