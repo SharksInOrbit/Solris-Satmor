@@ -1,9 +1,15 @@
 {
 	"nodes":[
-		{"id":"2ba91632c5481536","x":-340,"y":2780,"width":1380,"height":1060,"type":"file","file":"content/(1) Wanderhome (Gates)/Misc/Images/Wanderhome (2).pdf"},
-		{"id":"512c45be798834ee","x":225,"y":2600,"width":255,"height":60,"type":"text","text":"# Session Two"}
+		{"id":"2ba91632c5481536","type":"file","file":"content/(1) Wanderhome (Gates)/Misc/Images/Wanderhome (2).pdf","x":-340,"y":2780,"width":1380,"height":1060,"color":"5"},
+		{"id":"31df4245a59a7856","x":1200,"y":2780,"width":1380,"height":1060,"color":"5","type":"file","file":"content/(1) Wanderhome (Gates)/Misc/Images/Wanderhome (3).pdf"},
+		{"id":"147c8c41040c3f26","x":-340,"y":4240,"width":1380,"height":1060,"color":"5","type":"file","file":"content/(1) Wanderhome (Gates)/Misc/Images/Wanderhome (4).pdf"},
+		{"id":"512c45be798834ee","type":"text","text":"# Session Two","x":223,"y":2600,"width":255,"height":60,"color":"5"},
+		{"id":"5f4651acc9cdc456","x":185,"y":4040,"width":330,"height":80,"color":"5","type":"text","text":"# Session Four"},
+		{"id":"9b5b5ec2528c3821","x":1765,"y":2600,"width":250,"height":60,"color":"5","type":"text","text":"# Session Three"}
 	],
 	"edges":[
-		{"id":"6df2f8f14541757e","fromNode":"2ba91632c5481536","fromSide":"top","toNode":"512c45be798834ee","toSide":"bottom"}
+		{"id":"6df2f8f14541757e","fromNode":"2ba91632c5481536","fromSide":"top","toNode":"512c45be798834ee","toSide":"bottom","color":"5"},
+		{"id":"a6e10135cbb0899a","fromNode":"147c8c41040c3f26","fromSide":"top","toNode":"5f4651acc9cdc456","toSide":"bottom","color":"5"},
+		{"id":"99ec035196a35669","fromNode":"31df4245a59a7856","fromSide":"top","toNode":"9b5b5ec2528c3821","toSide":"bottom","color":"5"}
 	]
 }
