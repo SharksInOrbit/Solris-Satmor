@@ -13,34 +13,38 @@ title: Hira
 - [ ] 3
 - [ ] 2
 - [ ] 1
-### General Info
-**Player:** *Caitlyn*
-**Name:** *Hira*
-**Char. Pronouns:** *They/She*
-**Playbook:** *The Firelight, Witch*
-**Animal:** *Barn Swallow*
-#### Look
-***Physical Appearance***
+---
+## General Info
+###### **Player:** *Caitlyn*
+###### **Name:** *Hira*
+###### **Char. Pronouns:** *They/She*
+###### **Playbook:** *The Firelight, Witch*
+###### **Animal:** *Barn Swallow*
+---
+## Look
+###### ***Physical Appearance***
 - Small bird
 - Blue, brown, gray
-***Clothes***
+###### ***Clothes***
 - Mud-soaked cloak
 - Patchwork work pants
-***Carries***
+###### ***Carries***
 - Deck of playing cards
 - Medical Supplies
-***Inventory***
+###### ***Inventory***
 - A rusted iron lantern that their mother carried before them when she worked a similar job to her. (*A light she keeps lit*)
 - A beeswax candle gifted by a childhood friend, now burned down to a stump. (*A light that went out a long time ago*)
-#### Temperament and Beliefs
+---
+## Temperament and Beliefs
 *It is easy to get lost in the darkness and the deep. The firefly at your side will always guide the way.*
-***You Are Alive. Your care is: Forward-Thinking, Mutual, and Shining Bright.*** 
+###### ***You Are Alive. Your care is: Forward-Thinking, Mutual, and Shining Bright.*** 
 *There is magic in every corner of Hæth, from the bones of the dragons to the virtues of every herb and star. You know it well.*
-***You Are Alive. Your care is: Patient, Stubborn, and Deeply-Felt.***
+###### ***You Are Alive. Your care is: Patient, Stubborn, and Deeply-Felt.***
 
-**Tries to be:** *Here for everyone and Enough*
-**Knows they can’t be:** *Endlessly Patient and Constantly Correct*
-#### Some Things You Can Always Do
+###### **Tries to be:** *Here for everyone and Enough*
+###### **Knows they can’t be:** *Endlessly Patient and Constantly Correct*
+---
+## Some Things You Can Always Do
 - Ѭ Shrug.
 - Ѭ Pet your firefly.
 - Ѭ Illuminate all that is hard to see.
@@ -54,8 +58,9 @@ title: Hira
 - Perform a magic to address some small trouble.
 - Ask: "What troubles you?". They get a token if they answer. 
 - Say: "There's no hurrying some things."
-### Character Specifics
-**(Kinds of Magic) You've cradled like glowing embers with a steadfast and quiet care:**
+---
+## Character Specifics
+###### **(Kinds of Magic) You've cradled like glowing embers with a steadfast and quiet care:**
 - Soothing the grief of dead spirits--forgotten shades, ghosts from the war, even the Slobbering God herself- by hearing their stories.
 - Listening to past echoes of the dragons' voices, and mourning their passing through ritual gifts of food, drink, and gossip.
 - Binding a person's hurt, sorrow, or worry to a small talisman, which they can hold onto as long as they need and discard when they're ready.

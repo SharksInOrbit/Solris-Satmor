@@ -13,41 +13,45 @@ title: Solris
 - [x] 3
 - [ ] 2
 - [ ] 1
-### General Info
-**Name:** *Solris Satmor*
-**Char. Pronouns:** *They/He*
-**Playbook:** *The Moth-tender, The Rebel*
-**Animal:** *Samoyed/Wolf Mix*
+---
+## General Info
+###### **Name:** *Solris Satmor*
+###### **Char. Pronouns:** *They/He*
+###### **Playbook:** *The Moth-tender, The Rebel*
+###### **Animal:** *Samoyed/Wolf Mix*
 *Youngest adult in the party*
-#### Look
-***Physical Appearance***
+
+---
+## Look
+###### ***Physical Appearance***
 - Tall
 - Fluffy gray and white fur
 - A long, faded scar on their right arm
-***Clothes***
+###### ***Clothes***
 - Lighthouse/fisherman sweaters with the sleeves rolled up
 - Tweed Vest
 - Satchel full of papers
 - Satchel full of small thank you gifts from those you've helped
-***Carries***
+###### ***Carries***
 - Shinning Lantern
 - Map of local Moth Towers
 - A small weapon for self-defense (*Piece of boat scrap metal with a makeshift handle*)
 - Revolutionary Insignias (*Little coins*)
-***Inventory***
+###### ***Inventory***
 - Decoder for the secret Moth-Tending Cipher, an ancient relic gifted to them by their imaginative mentor. (*Devoted to protecting*)
 - Chart of lunar phases, a going-away present from their childhood best friend. (*In danger of falling apart*)
 - Packages to deliver 
 - The [[Heavenblade]] (*Acquired during [[(2) Session Two (Wanderhome 2-25-24)|Session Two]]*)
-#### Temperament and Beliefs
+---
+## Temperament and Beliefs
 *Carrier moths travel across the Hæth, bringing news, letters, and tiny boxes. You wander the land, keeping an eye on these moths and their towers.*
-***You Are Alive. Your care is: Consistent, Prompt, and Arrives in Small Packages.***
+###### ***You Are Alive. Your care is: Consistent, Prompt, and Arrives in Small Packages.***
 *The world is full of beautiful things and people, and there are those who wish to stomp them out. Wherever you go, you will not let them.*
-***You Are Alive. Your care is: Passionate, Defiant, and Hard-Won***
-
-**What their job asks them to be:** *Strong and Proper*
-**What they actually are:** *Curious and Calm*
-#### Some Things You Can Always Do
+###### ***You Are Alive. Your care is: Passionate, Defiant, and Hard-Won***
+###### **What their job asks them to be:** *Strong and Proper*
+###### **What they actually are:** *Curious and Calm*
+---
+## Some Things You Can Always Do
 - Ѭ Follow the moths.
 - Ѭ Fidget.
 - Ѭ Write something down on a piece of paper.
@@ -71,7 +75,8 @@ title: Solris
 - Reveal something hidden about the person in front of you, and ask them what it is.
 - Know something important about the place your in, and tell the table about it.
 - Listen to the shared wisdom of the many small and forgotten gods
-### Character Specifics
+---
+## Character Specifics
 - Can smell magic
 ##### Questions Asked and Answered
 ***To [[Hira]]: "When did I realize I could trust you?"***

@@ -13,45 +13,48 @@ title: The Author
 - [ ] 3
 - [ ] 2
 - [ ] 1
-### General Info
-**Player:** *Nemora*
-**Name:** *Author/The Author*
-**Char. Pronouns:** *He/They/Any*
-**Playbook:** *The Caretaker*
-**Animal:** *Crow*
-#### Look
-***Physical Appearance***
+---
+## General Info
+###### **Player:** *Nemora*
+###### **Name:** *Author/The Author*
+###### **Char. Pronouns:** *He/They/Any*
+###### **Playbook:** *The Caretaker*
+###### **Animal:** *Crow*
+---
+## Look
+###### ***Physical Appearance***
 - Black Crow
 - small
-***Clothes***
+###### ***Clothes***
 - Flowing Dress
 - Faded Shawl
 - Huge Glasses
-***Carries***
+###### ***Carries***
 - Loose Papers Covered In Sketches And Notes
 - A beautiful wooden walking stick adorned with feathers and runes, passed down through generations. (*a Ceremonial object they Honor*)
 - A handbook attempting to name all the gods, written by a poetic writer you once loved. *(a Ceremonial Object they Can Not Treasure Anymore)*
-#### Temperament and Beliefs
+---
+## Temperament and Beliefs
 *Someone must pay attention to all the small and forgotten things in the world. Someone must listen to the voiceless.*
-***You Are Alive. Your care is: Tender, Supportive, and Silent.***
-
-**They Value Being:** *Friendly and Alert*
-**They Feel Exhausted Being** *Organized and Expressive*
-#### Some Things You Can Always Do
+###### ***You Are Alive. Your care is: Tender, Supportive, and Silent.***
+###### **They Value Being:** *Friendly and Alert*
+###### **They Feel Exhausted Being** *Organized and Expressive*
+## Some Things You Can Always Do
 - Ѭ Pause, tilt your head to the side, and keep going.
 - Ѭ Play with one of your gods.
 - Ѭ Say something in silence better than words can.
 - Ѭ Notice a little friend everyone else overlooked.
 - Ѭ Say: “Hold this.”
 - Ѭ Ask: “Hush, can you hear that?” They get a token if they try their best to hear what you do.
-### Character Specifics
-**Unintentionally into my project:**
+---
+## Character Specifics
+###### **Unintentionally into my project:**
 - The rebellion and what happened to its adherents. (?)
 ##### Choose up to five Friends That Hide in the Many Shrines You Carry With You:
 - A family of cloud gods, who are all imaginative and/or •oracular.
 - A family of sapling gods, who are all raucous and/or •intertwined.
 - Lilt, a god of a tossed-aside creature. They are ‡nervous and/or ‡dead.
-- Ia, a god of a misplaced kiss. They are caring and/or •glamorous.
+- La, a god of a misplaced kiss. They are caring and/or •glamorous.
 - Woad, a god of a mossy boulder. They are resolute and/or •mighty.
 ##### Questions Asked and Answered:
 ***To [[Hira]]: "Which of my small and forgotten gods did you rescue and give to me?"***

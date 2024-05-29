@@ -3,7 +3,6 @@ title: (3) Session Three Notes
 draft: false
 tags:
 ---
- 
 ### *30 Years Ago*
 Desolate war torn battlefield. We see [[Beau]] carrying the body of a larger bear wearing golden armor across the field. He cries and places orchids next to the body before burying it a placing a headstone reading [[Camilla Befong]]. [[Kago]] is with him, but clearly doesn't understand what's going on. 
 

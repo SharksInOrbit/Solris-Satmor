@@ -1,9 +1,6 @@
-### General Info
-**Name:** *Camilla Befong*
-**Pronouns:** 
-**Animal Form:** *Bear*
-##### Appearance
-
+## General Info
+###### **Name:** *Camilla Befong*
+###### **Animal Form:** *Bear*
 ### Traits
 #### Trait 1
 *desc*
