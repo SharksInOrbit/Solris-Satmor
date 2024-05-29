@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2ba91632c5481536","x":-340,"y":2780,"width":1380,"height":1060,"type":"file","file":"content/(1) Wanderhome (Gates)/Misc/Images/Wanderhome (2).pdf"},
+		{"id":"512c45be798834ee","x":225,"y":2600,"width":255,"height":60,"type":"text","text":"# Session Two"}
+	],
+	"edges":[
+		{"id":"6df2f8f14541757e","fromNode":"2ba91632c5481536","fromSide":"top","toNode":"512c45be798834ee","toSide":"bottom"}
+	]
+}

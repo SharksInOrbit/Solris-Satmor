@@ -20,5 +20,7 @@ Improved Mobile compatibility by replacing the backlinks section with the graph 
 - Improved note formatting for players and NPCs
 - Fixed some organization issues
 - Updated the landing page
+- Added images to some pages
+- Added an art Gallery
 #### To-Do
 - Plug-in support
