@@ -2,6 +2,7 @@
 title: Sea Witch
 draft: false
 tags:
+  - Wanderhome_NPC
 ---
 ## General Info
 ###### **Name:** *The Sea Witch*

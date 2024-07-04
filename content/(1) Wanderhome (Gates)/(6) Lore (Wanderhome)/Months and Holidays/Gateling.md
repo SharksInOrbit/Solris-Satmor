@@ -14,7 +14,7 @@ tags:
 - Ѻ Not Enough Time For Everything You Want
 - Ѻ Rugged And Practical Clothes
 - Ѻ Strange Subtle Magics
-###### Lacks
+######  Lacks
 * Ѻ Clear Starry Skies
 - Ѻ Cold Cold Nights
 - Ѻ The Smell You Imagine Home Would Smell Like

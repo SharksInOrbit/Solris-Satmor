@@ -81,3 +81,5 @@ Dragonfly Riders -Vine armor with sunrise motifs, part of the sunrise extends in
 #### Round Two
 - [[Basil]] Fucking Dies. So does the god though I guess.
 - Hira explodes, feathers turn black, wave explodes from them and puts out the fires.
+
+#Wanderhome_Session_Notes 

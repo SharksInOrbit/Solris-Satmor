@@ -2,6 +2,7 @@
 title: Polina
 draft: false
 tags:
+  - Wanderhome_NPC
 ---
 ## General Info
 ###### **Name:** *Polina*
@@ -22,4 +23,4 @@ tags:
 ### Notes
 
 
-#Wanderhome #Wanderhome_PC 
+#Wanderhome #Wanderhome_NPC 

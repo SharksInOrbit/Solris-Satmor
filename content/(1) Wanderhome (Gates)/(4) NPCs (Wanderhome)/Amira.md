@@ -2,6 +2,7 @@
 title: Amira
 draft: false
 tags:
+  - Wanderhome_NPC
 ---
 ## General Info
 ###### **Name:** *Amira*
@@ -22,4 +23,4 @@ tags:
 - Met in session one
 - Father: [[Windmaker (Steven)]]
 
-#Wanderhome #Wanderhome_PC 
+#Wanderhome #Wanderhome_NPC 

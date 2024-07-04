@@ -2,6 +2,7 @@
 title: The First Avatar
 draft: false
 tags:
+  - Wanderhome_NPC
 ---
 ## General Info
 ###### **Name:** *Unamed*
@@ -25,4 +26,4 @@ tags:
 * The very first avatar of the [[North Wind God]]
 * Guide for the new gods in The Halls of the Northern Wind God.
 
-#Wanderhome #Wanderhome_PC 
+#Wanderhome #Wanderhome_NPC 

@@ -2,6 +2,7 @@
 title: Windmaker (Steven)
 draft: false
 tags:
+  - Wanderhome_NPC
 ---
 ## General Info
 ###### **Name:** *Windmaker (Steven)*
@@ -23,4 +24,4 @@ tags:
 - Met in session one
 - Daughter: [[Amira]]
 
-#Wanderhome #Wanderhome_PC 
+#Wanderhome #Wanderhome_NPC 
