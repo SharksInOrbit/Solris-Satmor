@@ -29,6 +29,7 @@ title: The Author
 - Flowing Dress
 - Faded Shawl
 - Huge Glasses
+- Ink Stained Hands
 ###### ***Carries***
 - Loose Papers Covered In Sketches And Notes
 - A beautiful wooden walking stick adorned with feathers and runes, passed down through generations. (*a Ceremonial object they Honor*)
@@ -49,7 +50,7 @@ title: The Author
 ---
 ## Character Specifics
 ###### **Unintentionally into my project:**
-- The rebellion and what happened to its adherents. (?)
+- The [[rebellion]] and what happened to its adherents.
 ##### Choose up to five Friends That Hide in the Many Shrines You Carry With You:
 - A family of cloud gods, who are all imaginative and/or •oracular.
 - A family of sapling gods, who are all raucous and/or •intertwined.

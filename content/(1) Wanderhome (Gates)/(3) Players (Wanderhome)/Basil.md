@@ -74,6 +74,6 @@ title: Basil
 #### Backstory
 
 ### Notes
-
+Basil chose to die via explosion in order to kill the [[North Wind God]] and protect the party during [[(4) Session Four (Wanderhome 5-26-24)|Session Four]].
 
 #Wanderhome_PC #Wanderhome 

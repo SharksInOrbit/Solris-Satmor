@@ -78,6 +78,7 @@ title: Solris
 ---
 ## Character Specifics
 - Can smell magic
+- Someone from their past: *Their favorite revolutionary scholar, whom they’ve never met—but they did respond to a letter once . They see them as learned or wise*
 ##### Questions Asked and Answered
 ***To [[Hira]]: "When did I realize I could trust you?"***
 *After a situation showing me how I handle complicated choices while alone, we had to separate and when they met up with me again they helped me through the realizations and guided me onward*

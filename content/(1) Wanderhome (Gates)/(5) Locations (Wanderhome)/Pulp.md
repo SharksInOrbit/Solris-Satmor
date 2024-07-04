@@ -1,5 +1,5 @@
-### Natures
-#### *Swamp:*
+# Natures
+## *Swamp:*
 ##### This place can always:
 - *Describe the heaviness of the world*
 - *Show tension caused by stagnation*
@@ -9,8 +9,8 @@
 - *Ѻ A Sinking Feeling*
 ##### Folklore (players choice)
 - *Ѻ The Shrewish Witch And Her Magic Cabin*
-
-#### *Island*
+---
+## *Island (Players' Choice)*
 ##### This place can always:
 - *Ѭ Describe the comfort of an isolated world.* 
 - *Ѭ Show conflict caused by isolation.*
@@ -20,7 +20,11 @@
 - *A Looming God*
 - *The Cave Where The Storms Stay At Night*
 ##### Folklore
-- *?*
-### Notes
+- *Ѻ The Shrewish Witch And Her Magic Cabin*
+- *Ѻ A Proper Leader Who Is Afraid Of The Outside World*
+- *Ѻ A Looming God*
+- *Ѻ The Cave Where the Storms Stay at Night
+---
+## Notes
 
 #Wanderhome #Wanderhome_Location

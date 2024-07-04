@@ -19,6 +19,6 @@
 ---
 ### Notes
 - Yelled about Old Gods in [[(1) Session One (Wanderhome)|Session One]]
-- Resistant to knew tech
+- Resistant to new tech
 
 #Wanderhome #Wanderhome_PC 

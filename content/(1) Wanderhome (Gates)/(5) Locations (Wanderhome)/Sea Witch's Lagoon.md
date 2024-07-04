@@ -1,6 +1,6 @@
 ### *One of the few open areas of water in the Thicket. Many wanderers come here seeking information, but the witch’s knowledge is not always suited for kith.*
-### Natures
-#### *Lagoon*
+## Natures
+## *Lagoon*
 ***A lagoon is a place of contemplation, introspection, and self-reflection.***
 ##### This place can always:
 - *Describe the water and all the tiny creatures that live in it.*
@@ -11,7 +11,8 @@
 - *A Watchful Creature Who Hides From The Outside*
 ##### Folklore
 - *The Gifting Of [[The Heavenblade]]* 
-#### *University*
+---
+## *University*
 ***A university is a place where many gather to learn from ancient texts.***
 ##### This place can always:
 - *Describe the vast amount of knowledge still left to learn.*
@@ -22,6 +23,7 @@
 - *An endless amount of knowledge just out of reach*
 ##### Folklore
 - *The Salmon With Three Wishes*
+---
 ### Notes
 
 #Wanderhome #Wanderhome_Location 
