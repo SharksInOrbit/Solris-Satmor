@@ -11,3 +11,5 @@ tags:
 - As you get closer to the center, all light begins to fade away until it eventually becomes pitch black.
 ---
 ## [[The Floating Mountain King]]'s Citadel
+
+#Wanderhome_Location 

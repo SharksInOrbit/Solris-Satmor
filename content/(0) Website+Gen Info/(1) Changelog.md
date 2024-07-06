@@ -39,4 +39,12 @@ Improved Mobile compatibility by replacing the backlinks section with the graph 
 - [ ] Make syncthing work again
 - [ ] Find a way to display big graph in a clearer way
 
+## Da Rules Update (7/6/24)
+#### Updates
+- A rules folder and a rules tag have been added
+- Pages for explaining [[Combat]], [[Downtime]], [[Rolls]], and [[Tokens]] have been created
+#### To-Do
+Prev. to-do list
+- [ ] Add content to [[Clocks]] and [[Special Rules]]
+
 #Website

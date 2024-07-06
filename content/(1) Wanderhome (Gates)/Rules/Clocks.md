@@ -1,9 +1,9 @@
 ---
-title: North Wind God
+title: Clocks
 draft: true
 tags:
-  - Lore
+  - Rules
 ---
 ## This page is a work in progress
 
-#Lore
+#Rules 
