@@ -32,7 +32,7 @@
 ***Inventory***
 - Decoder for the secret Moth-Tending Cipher, an ancient relic gifted to them by their imaginative mentor. (*Devoted to protecting*)
 - Chart of lunar phases, a going-away present from their childhood best friend. (*In danger of falling apart*)
-- [[(3) Solris' Packages|Packages to deliver]] 
+- [[(4) Solris' Packages|Packages to deliver]] 
 - The [[The Heavenblade]] (*Acquired during [[(2) Session Two (Wanderhome 2-25-24)|Session Two]]*)
 #### Temperament and Beliefs
 *Carrier moths travel across the Hæth, bringing news, letters, and tiny boxes. You wander the land, keeping an eye on these moths and their towers.*
@@ -48,8 +48,9 @@
 - *Education is the most important tool of revolution.*
 **Belief that Sometimes Falters**
 - *It is more important to save what you love than to destroy what you hate*
-**Belief they Reject**
 - *The end always justifies the means*
+**Belief they Reject**
+- *Killing is always, always wrong*
 #### Some Things You Can Always Do
 - Ѭ Follow the moths.
 - Ѭ Fidget.
@@ -82,16 +83,13 @@
 
 ***[[Hira]] to me: "What did I show you that you didn't want to see?"*** 
 *Led me into a situation in which I was on my own and had to make difficult choices. They were supposed to guide me and we ended up getting separated. I learned about how I handle situations under pressure which I did not want to know and wasn't ready to find out (fear of being alone)*
-#### Backstory
-###### **Solris’ 1st day as a moth tender:** 
-He delivered a package to a room above the tavern. When he knocks on the door, [[Beau]] opens it. He takes the package but hits [[Kago|something in his coat that makes a yelp.]] He quickly signs the paper and slams the door shut. Solris walks down to the restaurant part of the tavern and in the middle of rush hour. They're overexcited and a bit clumsy after delivering their first package, causing them to accidentally bump into a server. A knife falls off the server's tray and slices Solris' arm leaving a large gash behind. **This is the first time Solris had every been significantly hurt.** 
-###### After receiving the Heavenblade
-They're confused and intrigued by the Blade. They know it's important and can guess what it's capable of, but he doesn't exactly know _what_ it is. They get really invested in trying to figure out how it can be used and the history of it by becoming more social and talking to people older than them who were around during the rebellion as they deliver their letters and by collecting related books and trinkets. Solris is upset by what they find and desperately wants to do something about it. When they deliver letters they often hear snippets of what's in them and it makes them upset that they can't do anything about the little tragedies happening between people or the trauma people have faced in the aftermath of the war. They start fighting for the cause of *Change* in order to become someone who *is* both willing *and* capable of helping these people.
 ### Rolls
 - Advantage on saluting
 - Advantage with the [[The Heavenblade]]
 - Advantage on [[Rebellion]] things
 ### Notes
-- Lives on a [[(2) Lighthouse Longboat]].
+- Lives on a [[(3) Lighthouse Longboat]].
+- Became a rebel 
+- 
 
 #My_PC #Wanderhome_PC #Wanderhome 

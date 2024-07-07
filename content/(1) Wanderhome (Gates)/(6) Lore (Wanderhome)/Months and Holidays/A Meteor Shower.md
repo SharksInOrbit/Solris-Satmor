@@ -9,7 +9,7 @@ tags:
 
 ***
 ## Traditions
-- Ѻ
+- Ѻ Wish Making
 ---
 ## Once during the Meteor Shower:
 **Ѭ Once during the meteor shower, each person can spend a token and make a wish. The wish cannot harm others or force them to do something they wouldn’t do normally. Each wish comes true, even if the matter by which it comes true is metaphorical.**

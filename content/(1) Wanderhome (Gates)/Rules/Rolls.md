@@ -1,5 +1,5 @@
 ---
-title: Roles
+title: Rolls
 draft: false
 tags:
   - Rules
@@ -23,7 +23,7 @@ When a roll is called for use 2d6 then add the total to determine the outcome of
 
 - For disadvantage roll 3D6 and drop the highest roll. 
 
-- Advantage and disadvantage can be earned in many ways such as a reward from a downtime event or injuries making it harder to act. 
+- Advantage and disadvantage can be earned in many ways such as a reward from a [[Downtime]] event or injuries making it harder to act. 
 
 - You may also add an infinite amount of tokens up to 12 to any action roll to increase the total amount with each token adding a +1 bonus to your roll. 
 

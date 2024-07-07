@@ -27,7 +27,7 @@
 ---
 ### Notes
 - Found by [[Beau]] near a battlefield, hidden away, is now their ward.
-- Caused [[(2) Lighthouse Longboat]] to disappear
+- Caused [[(3) Lighthouse Longboat]] to disappear
 - Acts sort of like a bag of holding
 - Very food motived
 

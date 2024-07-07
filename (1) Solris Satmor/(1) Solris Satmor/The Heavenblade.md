@@ -6,6 +6,7 @@
 #### Traits/Abilities
 - Can nullify magical effects
 - Can talk???
+- After [[(4) Session Four (Wanderhome 5-26-24)|Session Four]] it can now turn into a bow, a shitty screwdriver, a police siren, and a water hose. It must cycle through the forms in order. "Gift" from [[Bismuth Dragon]]
 ### Notes 
 Slashing damage
 heavenly

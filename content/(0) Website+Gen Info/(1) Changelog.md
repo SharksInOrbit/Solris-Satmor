@@ -36,9 +36,10 @@ Improved Mobile compatibility by replacing the backlinks section with the graph 
 - [ ] Add any recent character updates from the level up
 - [ ] Mess with plug-ins some more
 - [ ] Try to get a canvas going for art
-- [ ] Make syncthing work again
+- [ ] Make Syncthing work again
 - [ ] Find a way to display big graph in a clearer way
 
+---
 ## Da Rules Update (7/6/24)
 #### Updates
 - A rules folder and a rules tag have been added
@@ -46,5 +47,13 @@ Improved Mobile compatibility by replacing the backlinks section with the graph 
 #### To-Do
 Prev. to-do list
 - [ ] Add content to [[Clocks]] and [[Special Rules]]
+
+---
+## Rules fixes (7/7/24)
+#### Updates
+- added content to [[Special Rules]] and [[Clocks]]
+- Fixed some broken backlinks
+- Fixed some formatting issues
+
 
 #Website

@@ -2,6 +2,7 @@
 title: Heavenblade
 draft: false
 tags:
+  - Item
 ---
 ***The Heavenblade was acquired by [[Solris]] during [[(2) Session Two (Wanderhome 2-25-24)|Session Two]] after they delivered a handcrafted violin to The [[Sea Witch]]. The Sea Witch gave them a golden harp and after they played the Song of Revelation together the harp turned into the Blade.***
 #### Appearance
@@ -11,6 +12,7 @@ tags:
 #### Traits/Abilities
 - Can nullify magical effects
 - Can talk???
+- After [[(4) Session Four (Wanderhome 5-26-24)|Session Four]] it can now turn into a bow, a shitty screwdriver, a police siren, and a water hose. It must cycle through the forms in order. "Gift" from [[Bismuth Dragon]]
 ### Notes 
 Slashing damage
 heavenly
