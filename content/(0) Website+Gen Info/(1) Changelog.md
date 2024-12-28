@@ -31,7 +31,7 @@ Improved Mobile compatibility by replacing the backlinks section with the graph 
 - Added NPCs
 - Improved Tagging
 #### To-Do
-- [ ] Add content to [[North Wind God]], [[Rebellion]], [[The Floating Mountain King]], [[Cambria]], [[Bismuth Dragon]], and [[The Slobbering God]] 
+- [ ] Add content to [[North Wind God]], [[Rebellion]], [[The Floating Mountain King]], [[Cambria]], [[Bigby the Big Bismuth Dragon]], and [[The Slobbering God]] 
 - [ ] See if I can change the appearance of backlinks
 - [ ] Add any recent character updates from the level up
 - [ ] Mess with plug-ins some more

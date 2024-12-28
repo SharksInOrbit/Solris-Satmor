@@ -7,9 +7,9 @@ title: Hira
 ##### Current HP
 *(Check HP when lost going from top to bottom)*
 - [x] 7 
-- [x] 6
-- [x] 5
-- [x] 4
+- [ ] 6
+- [ ] 5
+- [ ] 4
 - [ ] 3
 - [ ] 2
 - [ ] 1

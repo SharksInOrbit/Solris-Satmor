@@ -7,7 +7,7 @@ title: Percival
 ##### Current HP
 *(Check HP when lost going from top to bottom)*
 - [x] 7 
-- [ ] 6
+- [x] 6
 - [ ] 5
 - [ ] 4
 - [ ] 3
