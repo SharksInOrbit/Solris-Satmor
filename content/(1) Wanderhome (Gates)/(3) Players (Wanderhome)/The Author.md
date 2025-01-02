@@ -6,7 +6,7 @@ title: The Author
 ![[Pasted image 20240323200428.png]]
 ##### Current HP
 *(Check HP when lost going from top to bottom)*
-- [x] 7 
+- [ ] 7 
 - [ ] 6
 - [ ] 5
 - [ ] 4

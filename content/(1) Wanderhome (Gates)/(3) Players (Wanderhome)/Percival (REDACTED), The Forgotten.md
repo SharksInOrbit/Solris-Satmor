@@ -8,8 +8,8 @@ title: Percival
 *(Check HP when lost going from top to bottom)*
 - [x] 7 
 - [x] 6
-- [ ] 5
-- [ ] 4
+- [x] 5
+- [x] 4
 - [ ] 3
 - [ ] 2
 - [ ] 1

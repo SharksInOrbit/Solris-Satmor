@@ -3,6 +3,7 @@ Category: Solris
 icon: RaWolfHowl
 title: Solris
 ---
+
 ![[Pasted image 20240323200021.png]]
 ##### Current HP
 *(Check HP when lost going from top to bottom)*
@@ -94,5 +95,6 @@ He delivered a package to a room above the tavern. When he knocks on the door, [
 - Advantage on [[Rebellion]] things
 ### Notes
 - Lives on [[Solris' Lighthouse Longboat]].
+- 4 guards left
 
 #Wanderhome_PC 
